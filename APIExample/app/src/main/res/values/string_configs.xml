@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="agora_app_id" translatable="false">17f7cfe0a67f475f803d32a99ddbcef1</string>
+<!--    <string name="agora_app_id" translatable="false">6e729e9491fd42eda9e8ded2467853de</string>-->
+<!--    <string name="agora_access_token" translatable="false">007eJxTYFhlv/x43vSGvtNTGSc+mtP7jN/huPEqwWdnay4zRjufuqKgwGCWam5kmWppYmmYlmJilJqSaJlqkZKaYmRiZm5hapySetJlYnJDICND/bQ8FkYGCATx2RhKUotLDA0ZGAABqiFb</string>-->
+    <string name="agora_access_token" translatable="false">007eJxTYGAV+bM2MU2Fn0WSYdGrG48cUy5n+n9dsCNZKGPPP1eV0lMKDGap5kaWqZYmloZpKSZGqSmJlqkWKakpRiZm5hamximpzC5rkxsCGRkiivcwMEIhiM/MYGhoyMAAAM87HUo=
+</string>
+</resources>
